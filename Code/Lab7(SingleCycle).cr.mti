@@ -1,0 +1,25 @@
+{D:/University/Term 4/Computer Architecture/Lab/Lab7/building_blocks.v} {1 {vlog -work work -vopt -stats=none {D:/University/Term 4/Computer Architecture/Lab/Lab7/building_blocks.v}
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module async_mem
+-- Compiling module reg_file
+
+Top level modules:
+	async_mem
+	reg_file
+
+} {} {}} {D:/University/Term 4/Computer Architecture/Lab/Lab7/tb__isort/single_cycle_mips__tb_isort.v} {1 {vlog -work work -vopt -stats=none {D:/University/Term 4/Computer Architecture/Lab/Lab7/tb__isort/single_cycle_mips__tb_isort.v}
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module single_cycle_mips__tb_isort
+
+Top level modules:
+	single_cycle_mips__tb_isort
+
+} {} {}} {D:/University/Term 4/Computer Architecture/Lab/Lab7/single_cycle_mips.v} {1 {vlog -work work -vopt -stats=none {D:/University/Term 4/Computer Architecture/Lab/Lab7/single_cycle_mips.v}
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module single_cycle_mips
+-- Compiling module my_alu
+
+Top level modules:
+	single_cycle_mips
+
+} {} {}}
